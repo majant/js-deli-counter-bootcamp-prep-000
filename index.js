@@ -28,5 +28,3 @@ function currentLine(katzDeliLine) {
     return str;
   }
 }
-
-console.log(currentLine([]));
