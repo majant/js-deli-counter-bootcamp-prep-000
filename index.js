@@ -29,3 +29,4 @@ function currentLine(katzDeliLine) {
   }
 }
 
+console.log(['Ada','Bruce'])
